@@ -1,0 +1,140 @@
+		body {
+			background-color: #eba006;
+			color: #ffc527;
+			margin: 0 10%;
+			font-family: sans-serif;
+		}
+
+		h1 {
+			text-align: center;
+			font-family: serif;
+			font-weight: normal;
+			text-transform: uppercase;
+			border-bottom: 1px solid #ffc425;
+			margin-top: 30px;
+		}
+
+		h1.text {
+			text-align: center;
+			font-family: serif;
+			font-weight: normal;
+			text-transform: uppercase;
+			border-bottom: 1px solid #ffc425;
+			margin-top: 30px;
+		}
+
+    h2.columbia {
+			background-color: #ffc425;
+			color: #96c0e6
+;
+			font-size: 1em;
+		}   
+		h2.columbia_wiki {
+			background-color: #ffc425;
+			color: #b9d9eb;
+			font-size: 1em;
+		}
+
+    h2.methane {
+			background-color: #ffc425;
+			color: #0065a4;
+			font-size: 1em;
+		}
+
+		h2.light {
+			background-color: #eba006;
+			color: #ffc527;
+			text-shadow: 4px 4px 2px #b9d9eb;
+			font-size: 1em;
+		}
+
+		h2 {
+			background-color: #ffc425;
+			color: #003865;
+			font-size: 1em;
+		}
+
+		.athletic_gold {
+			color: #003865;
+			background-color: #eba006;
+		}
+
+		.light_yellow {
+			background-color: #eba006;
+			color: #ffc527;
+			text-shadow: 4px 4px 2px #003865;
+			text-align: center;
+		}
+
+		.light {
+			background-color: #eba006;
+			color: #ffc527;
+			text-shadow: 4px 4px 2px #003865;
+		}
+
+    .sc_athl_gold {
+			background-color: #eba006;
+			color: #ffc425;
+			text-shadow: 4px 4px 2px #003865;
+		}
+
+		.columbia_blue {
+			color: #003865;
+			background-color: #96c0e6;
+		}
+
+    .columbia_wiki {
+			color: #003865;
+			background-color: #b9d9eb;
+		}
+
+		.gold {
+			color: #eba006;
+			background-color: #b9d9eb;
+		}
+
+    .athletic_gold_sc {
+			color: #ffc425;
+			background-color: #b9d9eb;
+		}
+
+		.athletic_dark_blue {
+			background-color: #003865;
+			color: #ffc527;
+		}
+    .methane_blue {
+			background-color: #0065a4;
+			color: #ffc527;
+		} 
+		.center {
+			margin: auto;
+			width: 56%;
+			border: 3px solid #ffc425;
+			padding: 10px;
+		}
+
+		.logo {
+			border-radius: 50%;
+      hover: #ffc527;
+		}
+
+		.links {
+			text-align: center;
+		}
+    footer {
+      text-align: center;
+    }
+
+    a:link {
+      color: #0065a4;
+    }
+    a:visited {
+      color: #ffc527;
+    }
+    a:hover {
+      color:#00ffff;
+      background-color: #eba006;
+    }
+    a:active {
+      color: #ffc527;
+    }
